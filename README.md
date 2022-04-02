@@ -13,4 +13,3 @@ to interact with the DOM
 * cell density can be 6X6 to 100X100
 * reset button to wipe slate clean and start over
 * delete .DS store
-*
