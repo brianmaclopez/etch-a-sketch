@@ -2,14 +2,12 @@
 
 It's a learning project for understanding how to use Javascript
 to interact with the DOM
-<span style="color: red">TODO</span>
+<span style="color: red">Done</span>
 ---------------------------------------------------------------
-* Create input field or slider
-* Make hover effects permanent
-* Add reset button
-* Reset Button that slides and clears screen as it goes?
-
-* hover mouse over cells to trace lines
+* mouse path etches in the painting area
 * cell density can be 6X6 to 100X100
 * reset button to wipe slate clean and start over
+
+<span style="color: red">TODO</span>
+---------------------------------------------------------------
 * delete .DS store
